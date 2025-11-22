@@ -8,8 +8,7 @@
 
 ## 🚀 About Me  
 - 🎓 Computer Engineering Student  
-- 💻 Backend Developer (.NET, Node.js, Express, MySQL)  
-- 🔧 Hardware/Embedded Systems (Arduino, ESP32, Stepper, Servo, RFID, Sensors)  
+- 💻 Backend Developer (.NET, Node.js, Express, SQL)  
 - ⚙️ Familiar with React  
 - 🌱 Always learning & building real projects
 
@@ -49,7 +48,6 @@
 
 ## 📫 Contact Me  
 - Email: **jawadhamdan03@gmail.com**  
-- LinkedIn (optional – say yes and I’ll add it)
 
 ---
 
