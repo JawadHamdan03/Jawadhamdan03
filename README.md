@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jawad Hamdan</h1>
 
-<!--
-**JawadHamdan03/Jawadhamdan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jawadhamdan03&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🎓 Computer Engineering Student  
+- 💻 Backend Developer (.NET, Node.js, Express, MySQL)  
+- 🔧 Hardware/Embedded Systems (Arduino, ESP32, Stepper, Servo, RFID, Sensors)  
+- ⚙️ Familiar with React  
+- 🌱 Always learning & building real projects
+
+---
+
+## 🛠️ Tech Stack  
+
+### **Programming & Scripting**
+- C# · JavaScript · C/C++ · Python  
+
+### **Backend**
+- .NET Core · ASP.NET MVC · Node.js · Express.js · MySQL · SQLite  
+
+### **Hardware**
+- Arduino · ESP32 · RFID PN532 · Stepper Motors · Servos · Sensors  
+
+### **Tools**
+- Git · GitHub · Docker · VS Code · MySQL Workbench  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jawadhamdan03&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawadhamdan03&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jawadhamdan03&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Me  
+- Email: **jawadhamdan03@gmail.com**  
+- LinkedIn (optional – say yes and I’ll add it)
+
+---
+
