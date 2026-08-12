@@ -30,11 +30,11 @@
 
 <div align="left">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:hamdanjawad48@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/jawad-hamdan-282437399/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
 </a>
 
@@ -101,13 +101,28 @@
 ![xUnit](https://img.shields.io/badge/xUnit-5FA04E?style=for-the-badge\&logo=xunit\&logoColor=white)
 
 
-# 📈 Contribution Graph
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JawadHamdan03&theme=dracula&hide_border=false" alt="Contribution Graph" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JawadHamdan03&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false&cache_seconds=86400" alt="Jawad's GitHub Stats" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=JawadHamdan03&theme=dracula&hide_border=false" alt="GitHub Streak" />
 
 </div>
+
+# 🧑‍💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadHamdan03&layout=compact&langs_count=10&count_private=true&theme=dracula&hide_border=false&cache_seconds=86400" alt="Top Languages" />
+
+</div>
+
+# 📈 Contributions in the Last Year
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JawadHamdan03&custom_title=Jawad%20Hamdan's%20Contribution%20Graph&bg_color=282a36&color=f8f8f2&line=bd93f9&point=ff79c6&area=true&area_color=44475a&title_color=bd93f9&hide_border=true" alt="Contribution Graph" />
 
 <br>
 
@@ -116,4 +131,3 @@
 <img src="https://raw.githubusercontent.com/JawadHamdan03/JawadHamdan03/output/snake.svg" alt="Snake animation" />
 
 </div>
-
