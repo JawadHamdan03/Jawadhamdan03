@@ -100,31 +100,6 @@
 
 ![xUnit](https://img.shields.io/badge/xUnit-5FA04E?style=for-the-badge\&logo=xunit\&logoColor=white)
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JawadHamdan03&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadHamdan03&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JawadHamdan03&theme=dracula&hide_border=false" alt="GitHub Streak" />
-
-</div>
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JawadHamdan03&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-
-</div>
 
 # 📈 Contribution Graph
 
